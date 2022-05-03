@@ -10,6 +10,8 @@ Auto Accept match
 
 Auto hotkey
 
+Work with any resolution (Recommend: 1360*768 60Hz)
+
 # USAGE 
 
 select champ and start bot
