@@ -24,5 +24,6 @@ DirectX9 and above...
 
 SlimDX
 
-# SAFE NO BAN
+# NO BAN! SAFE PLAY!
 
+![image](https://user-images.githubusercontent.com/20111218/166411672-812cbf96-e7ea-46ad-a166-3f1957378dfe.png)
