@@ -18,9 +18,11 @@ select champ and start bot
 
 Example: in game hold Q and you see you mouse is locked on enemy champ
 
-# requirement
+# Requirement
 
 DirectX9 and above...
+
+SlimDX
 
 # SAFE NO BAN
 
